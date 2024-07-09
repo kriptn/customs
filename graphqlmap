@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+# EASY-INSTALL-SCRIPT: 'graphqlmap==0.0.1','graphqlmap'
+__requires__ = 'graphqlmap==0.0.1'
+__import__('pkg_resources').run_script('graphqlmap==0.0.1', 'graphqlmap')
